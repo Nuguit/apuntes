@@ -57,6 +57,7 @@ st.markdown('<div class="seccion" id="cliente-servidor"></div>', unsafe_allow_ht
 st.header("💾 Cliente Servidor")
 st.write("""
 **Recursos recomendados:**
+         
 [📘 Formularios](https://notebooklm.google.com/notebook/2bc85910-0f48-48ed-810c-5f0f0815fe51)
 
 """)
